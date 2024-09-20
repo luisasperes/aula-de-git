@@ -1,3 +1,3 @@
-function () {
+function EscreveTesteConsole() {
     console.log("teste");
 }
